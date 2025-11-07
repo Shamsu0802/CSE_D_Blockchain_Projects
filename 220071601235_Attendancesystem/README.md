@@ -1,10 +1,11 @@
-# Team members
--NAME: SHAMSU NISHA N
--RRN:220071601235
--NAME:SHARMILA D
--RRN:220071601236
--NAME:THARANI V S
--RRN:220071601235
+# 👥 Team Members
+
+| Name            | RRN          |
+|-----------------|---------------|
+| Shamsu Nisha N  | 220071601235 |
+| Sharmila D      | 220071601236 |
+| Tharani V S     | 220071601235 |
+
 
 
 
